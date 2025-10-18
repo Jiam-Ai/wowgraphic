@@ -86,7 +86,7 @@ const Header: React.FC = () => {
                           {link.name}
                       </a>
                   ))}
-                  <a href="https://wa.me/+23277931814" target="_blank" rel="noopener noreferrer" onClick={toggleMobileMenu} className="mt-8 bg-amber-400 text-black px-10 py-3 font-bold text-lg hover:bg-amber-300 transition-all duration-300">
+                  <a href="https://wa.me/+23277718185" target="_blank" rel="noopener noreferrer" onClick={toggleMobileMenu} className="mt-8 bg-amber-400 text-black px-10 py-3 font-bold text-lg hover:bg-amber-300 transition-all duration-300">
                       Book Now
                   </a>
               </nav>
