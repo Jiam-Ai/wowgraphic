@@ -60,7 +60,7 @@ const Header: React.FC = () => {
                </a>
             ))}
           </nav>
-          <a href="https://wa.me/+23277931814" target="_blank" rel="noopener noreferrer" className="hidden md:inline-block bg-amber-400 text-black px-6 py-2 font-bold hover:bg-amber-300 transition-all duration-300">
+          <a href="https://wa.me/+23277718185" target="_blank" rel="noopener noreferrer" className="hidden md:inline-block bg-amber-400 text-black px-6 py-2 font-bold hover:bg-amber-300 transition-all duration-300">
             Book Now
           </a>
           <div className="md:hidden">
